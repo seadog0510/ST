@@ -1,3 +1,6 @@
+import { eventSource, event_types } from "../../../../script.js";
+import { extension_settings } from "../../../extensions.js";
+
 const EXT_ID = "ST";
 
 // === 状态 ===
