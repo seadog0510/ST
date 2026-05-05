@@ -1,4 +1,4 @@
-const EXT_ID = "prompt-forensics";
+const EXT_ID = "ST";
 
 // === 状态 ===
 let lastCapture = null;       // 最近一次捕获的完整数据
